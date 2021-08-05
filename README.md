@@ -1,6 +1,4 @@
-Depy 2016 Talk: Pre-Modeling: Data Preprocessing and Feature Exploration in Python
-
-Author: April Chen, Data Scientist at Civis Analytics
+Depy Talk Notes: Pre-Modeling: Data Preprocessing and Feature Exploration in Python
 
 This repo contains several files:
 
